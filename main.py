@@ -22,7 +22,7 @@ def put_text(img, text, x_value, y_value):
                     lineType = cv2.LINE_AA)
 
 
-img = cv2.imread("pop.jpg")
-put_text(img, "Follow us on ig : @aadesh__lokhande", 150, 250)
+img = cv2.imread("img.jpg")
+put_text(img, "Follow us on IG : @aadesh__lokhande", 150, 250)
 put_text(img, "Aadesh", 150, 750)
 cv2.imwrite("output.jpg", img)
