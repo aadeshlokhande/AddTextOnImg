@@ -26,3 +26,4 @@ img = cv2.imread("img.jpg")
 put_text(img, "Follow us on IG : @aadesh__lokhande", 150, 250)
 put_text(img, "Aadesh", 150, 750)
 cv2.imwrite("output.jpg", img)
+
