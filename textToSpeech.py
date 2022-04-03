@@ -1,7 +1,7 @@
 from gtts import gTTS 
 
 def tts(mytext):    
-    myobj = gTTS(text=mytext, lang='en', slow=False)
+    myobj = gTTS(text=mytext, lang='en', slow=True)
     myobj.save("hello.mp3")
 
 

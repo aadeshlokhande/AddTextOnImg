@@ -1,8 +1,0 @@
-Word : AARDVARK
-
-Noun : 
-1) nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata
-
-Adjective : N\A
-
-Verb : N\A
